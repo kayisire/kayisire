@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kevin G. Kayisire</h1>
-<h3 align="center">A passionate software developer from Kigali, Rwanda.</h3>
-
-<p align="left"> <a href="https://twitter.com/kevinkayisire" target="blank"><img src="https://img.shields.io/twitter/follow/kevinkayisire?logo=twitter&style=for-the-badge" alt="kevinkayisire" /></a> </p>
+<h1>Hi 👋, I'm Kevin G. Kayisire</h1>
+<h3>A passionate software developer from Kigali, Rwanda.</h3>
 
 - 🔭 I’m currently working on [Mulla App](https://mulla.app)
 
