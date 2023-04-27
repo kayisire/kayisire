@@ -1,5 +1,5 @@
 <h3>Hi 👋</h3>
-<p>I'm Kevin G. Kayisire, a software developer from Kigali, Rwanda.</p>
+<p>I'm Kevin G. Kayisire, a software entrepreneur from Kigali, Rwanda.</p>
 <p>Learn more about me at: https://kayisire.github.io</p>
 
 <h4 align="left">Connect with me:</h4>
