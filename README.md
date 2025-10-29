@@ -1,7 +1,7 @@
 <h1>Hello there 👋!</h1>
 <h2>My name is Kevin Gautier Kayisire.</h2>
 <p>I am a software developer and tech entrepreneur based in Kigali,  Rwanda.</p>
-<p>I am currently working on my venture <a href="https://kayko.rw" target="_blank">Kayko</a> and exploring a <a href="https://www.instagram.com/keveengautier" target="_blank">new hobby</a> in photography.</p>
+<p>I am currently working on my venture <a href="https://kaykoapp.com" target="_blank">Kayko</a> and exploring a <a href="https://www.instagram.com/kevinkayisire" target="_blank">new hobby</a> in photography.</p>
 <p>Outside of the tech realm, I enjoy taking random pictures of the nature, watching old TV series and listening to podcasts.</p>
   
 <h4 align="left">Connect with me:</h4>
